@@ -57,25 +57,5 @@ The project focuses on **learning-by-building** and simulates core Airbnb-like f
 ### 🏡 Home Listing Page
 Displays all available homes with price, location, rating, and booking option.
 
-![Home Listing](./screenshots/Screenshot%20From%202026-01-05%2019-39-14.png)
-
----
-
-### ❤️ Favourites & Navigation
-Users can manage favourite homes using an intuitive navigation bar.
-
-![Navigation & Favourites](./screenshots/Screenshot%20From%202026-01-05%2019-39-30.png)
-
----
-
-### 🧑‍💼 Full Application View
-Complete application layout showing host and user functionality.
-
-![Full App View](./screenshots/Screenshot%20From%202026-01-05%2020-10-31.png)
-
-> 📌 *Note:* Create a folder named `screenshots` in your project root and place these images inside it.
-
----
-
-## 📁 Project Structure
+![Home Listing](./screenshots/Home.png)
 
